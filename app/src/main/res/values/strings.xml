@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="pokemon_list">Pokemon List</string>
+    <string name="metascore">Metascore</string>
+    <string name="imdb_movies_list">IMDB Movies List</string>
 
     <string-array name="gender_array">
         <item>Male</item>
